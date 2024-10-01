@@ -9,7 +9,7 @@ import { useState, useEffect } from 'react';
 const items = [
   {
     label: (
-      <Link to={"/"}>
+      <Link to={"/Yi"}>
         Home
       </Link>
     ),
